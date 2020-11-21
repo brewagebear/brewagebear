@@ -25,9 +25,6 @@
 
 <p align="">
 <a href="https://github.com/dailyworker/dailyworker">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dailyworker&hide=html" />
-</a>
-<a href="https://github.com/dailyworker/dailyworker">
   <img src="https://github-readme-stats.vercel.app/api?username=dailyworker&show_icons=true&line_height=40&count_private=true&hide=contribs" alt="Dailyworker's GitHub Stats" />
 </a>
 </p>
