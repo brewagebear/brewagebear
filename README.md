@@ -1,4 +1,4 @@
-## SuUng Shin - @SeanSin
+## Su-Ung Sin - @SeanSin
 
 🔗 Development blog : [dailyworker.github.io](https://dailyworker.github.io)  
 🔗 CV : [private]
