@@ -1,6 +1,6 @@
 ## Su-Ung Sin - @SeanSin
 
-🔗 Development blog : [dailyworker.github.io](https://dailyworker.github.io)  
+🔗 Development blog : [brewagebear.github.io](https://brewagebear.github.io/)  
 🔗 CV : [private]
 
 <br/>
