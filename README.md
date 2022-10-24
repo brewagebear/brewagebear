@@ -1,4 +1,4 @@
-## Su-Ung Sin - @SeanSin
+## Bear
 
 🔗 Development blog : [brewagebear.github.io](https://brewagebear.github.io/)  
 🔗 CV : [private]
